@@ -1,13 +1,13 @@
 const CONFIG = {
   // 首屏信息栏按钮文字
   MAGZINE_HOME_BANNER_ENABLE: false, // 首屏右上角的宣传位
-  MAGZINE_HOME_BUTTON: true,
+  MAGZINE_HOME_BUTTON: false,
   MAGZINE_HOME_BUTTON_URL: '/about',
   MAGZINE_HOME_BUTTON_TEXT: '了解更多',
 
   MAGZINE_HOME_HIDDEN_CATEGORY: '分享杂文', //不希望在首页展示的文章分类，用英文逗号隔开
 
-  MAGZINE_HOME_TITLE: '欢迎加入我的医疗行业社群',
+  MAGZINE_HOME_TITLE: '欢迎进入我的医疗行业网站',
   MAGZINE_HOME_DESCRIPTION:
     '分享交流最新的AI技术，交换最新的医疗行业信息。',
   MAGZINE_HOME_TIPS: '为了防止世界被破坏，为了维护世界的和平',
